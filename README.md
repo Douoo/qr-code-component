@@ -15,14 +15,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 Overview
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Douoo/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://douoo.github.io/qr-code-component)
+- Solution URL: [Code](https://github.com/Douoo/qr-code-component.git)
+- Live Site URL: [Preview](https://douoo.github.io/qr-code-component)
 
 ## My process
 
